@@ -1,130 +1,437 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\",
+  "WorkspaceRootPath": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\implementations\\submissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\implementations\\classroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\implementations\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\isubmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\iclassroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\classroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\teacherassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\submissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\stuffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\studentassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\dto\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\stuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34239239-89A3-404D-9281-B40D80A41938}|..\\service\\service.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codefirst\\migrations\\20260224134431_initialfinaldesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:migrations\\20260224134431_initialfinaldesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codefirst\\codefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:codefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codefirst\\codefirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
-      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:codefirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\submissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\stuffreposirory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codefirst\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\project\\__projectaltshuler\\codefirst\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25E8DD27-C698-443F-A87C-0E22C6A4DB55}|..\\WebApplication\\WebApplicationProject.csproj|e:\\project\\__projectaltshuler\\webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\project\\__projectaltshuler\\codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\Migrations\\20260316151041_AddTeacherIdToLessonFix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260316151041_AddTeacherIdToLessonFix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\Migrations\\20260316150732_AddTeacherIdToLesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260316150732_AddTeacherIdToLesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8DD27-C698-443F-A87C-0E22C6A4DB55}|..\\WebApplication\\WebApplicationProject.csproj|e:\\project\\__projectaltshuler\\webapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8DD27-C698-443F-A87C-0E22C6A4DB55}|..\\WebApplication\\WebApplicationProject.csproj|e:\\project\\__projectaltshuler\\webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8DD27-C698-443F-A87C-0E22C6A4DB55}|..\\WebApplication\\WebApplicationProject.csproj|e:\\project\\__projectaltshuler\\webapplication\\controllers\\classroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8DD27-C698-443F-A87C-0E22C6A4DB55}|..\\WebApplication\\WebApplicationProject.csproj|e:\\project\\__projectaltshuler\\webapplication\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\createsubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8DD27-C698-443F-A87C-0E22C6A4DB55}|..\\WebApplication\\WebApplicationProject.csproj|e:\\project\\__projectaltshuler\\webapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8DD27-C698-443F-A87C-0E22C6A4DB55}|..\\WebApplication\\WebApplicationProject.csproj|e:\\project\\__projectaltshuler\\webapplication\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8DD27-C698-443F-A87C-0E22C6A4DB55}|..\\WebApplication\\WebApplicationProject.csproj|e:\\project\\__projectaltshuler\\webapplication\\controllers\\submissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8DD27-C698-443F-A87C-0E22C6A4DB55}|..\\WebApplication\\WebApplicationProject.csproj|e:\\project\\__projectaltshuler\\webapplication\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8DD27-C698-443F-A87C-0E22C6A4DB55}|..\\WebApplication\\WebApplicationProject.csproj|e:\\project\\__projectaltshuler\\webapplication\\controllers\\lessoncategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8DD27-C698-443F-A87C-0E22C6A4DB55}|..\\WebApplication\\WebApplicationProject.csproj|e:\\project\\__projectaltshuler\\webapplication\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\services\\submissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\services\\transcriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\services\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\repositories\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\interfaces\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\services\\mymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\services\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\services\\lessoncategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\services\\classroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\services\\assignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\services\\aitranscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\interfaces\\itranscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\interfaces\\isubmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\interfaces\\ilessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\interfaces\\ilessoncategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\interfaces\\iclassroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\interfaces\\iassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\updategradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\teachersubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\teacherassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\studentsubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\studentassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\createstaffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\createlessonrecordingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\createlessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\createassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCB9F4C-884C-4765-A3AA-763A4C9EEFF5}|..\\service\\service\\service.csproj|e:\\project\\__projectaltshuler\\service\\service\\dto\\classdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\repositories\\submissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\repositories\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\repositories\\lessoncategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\repositories\\designcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\repositories\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\repositories\\assignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\models\\lessoncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\project\\__projectaltshuler\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\project\\__projectaltshuler\\codefirst\\models\\schoolcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:models\\schoolcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\SubmissionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\SubmissionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\project\\__projectaltshuler\\codefirst\\codefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:codefirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\project\\__projectaltshuler\\codefirst\\codefirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:codefirst.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\User\\Desktop\\\u05E9\u05E0\u05D4 \u05D1\u0027\\codeFirst\\Migrations\\20260224132222_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1446D3E-84AE-4A82-BC64-6E30AD871ECF}|..\\Repositories\\Repositories.csproj|e:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\repositories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\ClassRoomService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AssignmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\ISubmissionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAssignmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IClassRoomService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentAssignmentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\TeacherAssignmentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\LessonDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\SubmissionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StuffDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\ClassRoomDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\ClassRoomRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\SubmissionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StuffReposirory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\LessonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\AssignmentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Stuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\ClassRoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\Migrations\\20260224134431_InitialFinalDesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|e:\\project\\__projectaltshuler\\codefirst\\migrations\\20260311141145_addfilepathtoassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92FB22-6253-4BA3-A659-B05E0D5523A1}|codeFirst.csproj|solutionrelative:migrations\\20260311141145_addfilepathtoassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\interfaces\\IsubmissionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\SubmissionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\StaffController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\ClassRoomController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\AssignmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\AssignmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\StudentAssignmentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\interfaces\\IAssignmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\Repositories\\Repositories\\AssignmentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\MyMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\Repositories\\InterFaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\Repositories\\InterFaces\\IContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\Repositories\\models\\Assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\TeacherAssignmentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\CreateAssignmentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\ClassDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\ClassDetailDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\CreateSubmissionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\ClassRoomService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\StaffService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\studentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\Repositories\\Repositories\\ClassRoomRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECT\\ProjectAltshuler\\Repositories\\Repositories.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,479 +441,1737 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SubmissionService.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\SubmissionService.cs",
-              "RelativeDocumentMoniker": "..\\service\\Implementations\\SubmissionService.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\SubmissionService.cs",
-              "RelativeToolTip": "..\\service\\Implementations\\SubmissionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "20260316151041_AddTeacherIdToLessonFix.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\Migrations\\20260316151041_AddTeacherIdToLessonFix.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260316151041_AddTeacherIdToLessonFix.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\Migrations\\20260316151041_AddTeacherIdToLessonFix.cs",
+              "RelativeToolTip": "Migrations\\20260316151041_AddTeacherIdToLessonFix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T15:26:38.662Z",
+              "WhenOpened": "2026-03-16T15:10:42.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClassRoomService.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\ClassRoomService.cs",
-              "RelativeDocumentMoniker": "..\\service\\Implementations\\ClassRoomService.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\ClassRoomService.cs",
-              "RelativeToolTip": "..\\service\\Implementations\\ClassRoomService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication\\Program.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Program.cs",
+              "RelativeToolTip": "..\\WebApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T15:26:19.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AuthService.cs",
-              "RelativeDocumentMoniker": "..\\service\\Implementations\\AuthService.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AuthService.cs",
-              "RelativeToolTip": "..\\service\\Implementations\\AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T15:26:04.842Z",
+              "WhenOpened": "2026-03-16T10:31:08.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AssignmentService.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AssignmentService.cs",
-              "RelativeDocumentMoniker": "..\\service\\Implementations\\AssignmentService.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AssignmentService.cs",
-              "RelativeToolTip": "..\\service\\Implementations\\AssignmentService.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T15:25:03.357Z",
+              "WhenOpened": "2026-03-10T16:09:44.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ISubmissionService.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\ISubmissionService.cs",
-              "RelativeDocumentMoniker": "..\\service\\interfaces\\ISubmissionService.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\ISubmissionService.cs",
-              "RelativeToolTip": "..\\service\\interfaces\\ISubmissionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\Lesson.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\Lesson.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\Lesson.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\Lesson.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA4wBoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T15:22:38.686Z",
+              "WhenOpened": "2026-03-12T10:34:39.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAssignmentService.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAssignmentService.cs",
-              "RelativeDocumentMoniker": "..\\service\\interfaces\\IAssignmentService.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAssignmentService.cs",
-              "RelativeToolTip": "..\\service\\interfaces\\IAssignmentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "School.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\models\\School.cs",
+              "RelativeDocumentMoniker": "models\\School.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\models\\School.cs",
+              "RelativeToolTip": "models\\School.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T15:22:29.063Z",
+              "WhenOpened": "2026-02-25T13:50:01.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IClassRoomService.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IClassRoomService.cs",
-              "RelativeDocumentMoniker": "..\\service\\interfaces\\IClassRoomService.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IClassRoomService.cs",
-              "RelativeToolTip": "..\\service\\interfaces\\IClassRoomService.cs",
+              "Title": "20260316150732_AddTeacherIdToLesson.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\Migrations\\20260316150732_AddTeacherIdToLesson.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260316150732_AddTeacherIdToLesson.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\Migrations\\20260316150732_AddTeacherIdToLesson.cs",
+              "RelativeToolTip": "Migrations\\20260316150732_AddTeacherIdToLesson.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T15:22:14.673Z",
+              "WhenOpened": "2026-03-16T15:07:32.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "..\\service\\interfaces\\IAuthService.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAuthService.cs",
-              "RelativeToolTip": "..\\service\\interfaces\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T15:21:51.08Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\WebApplication\\appsettings.Development.json",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\appsettings.Development.json",
+              "RelativeToolTip": "..\\WebApplication\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T14:54:35.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "StudentAssignmentDto.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentAssignmentDto.cs",
-              "RelativeDocumentMoniker": "..\\service\\Dto\\StudentAssignmentDto.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentAssignmentDto.cs",
-              "RelativeToolTip": "..\\service\\Dto\\StudentAssignmentDto.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAoAAAA",
+              "DocumentIndex": 5,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\InterFaces\\IContext.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\InterFaces\\IContext.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\InterFaces\\IContext.cs",
+              "RelativeToolTip": "..\\Repositories\\InterFaces\\IContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:43:40.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TeacherAssignmentDto.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\TeacherAssignmentDto.cs",
-              "RelativeDocumentMoniker": "..\\service\\Dto\\TeacherAssignmentDto.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\TeacherAssignmentDto.cs",
-              "RelativeToolTip": "..\\service\\Dto\\TeacherAssignmentDto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:08:36.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LessonDto.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\LessonDto.cs",
-              "RelativeDocumentMoniker": "..\\service\\Dto\\LessonDto.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\LessonDto.cs",
-              "RelativeToolTip": "..\\service\\Dto\\LessonDto.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA9wA8AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:08:00.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SubmissionDto.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\SubmissionDto.cs",
-              "RelativeDocumentMoniker": "..\\service\\Dto\\SubmissionDto.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\SubmissionDto.cs",
-              "RelativeToolTip": "..\\service\\Dto\\SubmissionDto.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBAAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:07:50.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StudentDto.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentDto.cs",
-              "RelativeDocumentMoniker": "..\\service\\Dto\\StudentDto.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentDto.cs",
-              "RelativeToolTip": "..\\service\\Dto\\StudentDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:07:33.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StuffDto.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StuffDto.cs",
-              "RelativeDocumentMoniker": "..\\service\\Dto\\StuffDto.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StuffDto.cs",
-              "RelativeToolTip": "..\\service\\Dto\\StuffDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:07:20.732Z",
+              "WhenOpened": "2026-03-12T09:41:57.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ClassRoomDto.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\ClassRoomDto.cs",
-              "RelativeDocumentMoniker": "..\\service\\Dto\\ClassRoomDto.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\ClassRoomDto.cs",
-              "RelativeToolTip": "..\\service\\Dto\\ClassRoomDto.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAABAAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\WebApplication\\appsettings.json",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\appsettings.json",
+              "RelativeToolTip": "..\\WebApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T14:54:32.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication\\Controllers\\AssignmentController.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "..\\WebApplication\\Controllers\\AssignmentController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwD8AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:05:31.828Z",
+              "WhenOpened": "2026-03-12T09:22:19.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\UserDto.cs",
-              "RelativeDocumentMoniker": "..\\service\\Dto\\UserDto.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\UserDto.cs",
-              "RelativeToolTip": "..\\service\\Dto\\UserDto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Title": "ClassRoomController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\ClassRoomController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication\\Controllers\\ClassRoomController.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\ClassRoomController.cs",
+              "RelativeToolTip": "..\\WebApplication\\Controllers\\ClassRoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:05:06.213Z",
+              "WhenOpened": "2026-03-12T09:21:40.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateSubmissionDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateSubmissionDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\CreateSubmissionDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateSubmissionDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\CreateSubmissionDto.cs",
+              "ViewState": "AQIAABYAAADARqn3zdMawBoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:55:35.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "..\\WebApplication\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:51:55.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication\\Controllers\\StaffController.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "..\\WebApplication\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:51:53.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubmissionController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\SubmissionController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication\\Controllers\\SubmissionController.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\SubmissionController.cs",
+              "RelativeToolTip": "..\\WebApplication\\Controllers\\SubmissionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:21:45.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication\\Controllers\\LessonController.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "..\\WebApplication\\Controllers\\LessonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:20:57.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LessonCategoryController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\LessonCategoryController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication\\Controllers\\LessonCategoryController.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\LessonCategoryController.cs",
+              "RelativeToolTip": "..\\WebApplication\\Controllers\\LessonCategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:21:32.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication\\Controllers\\EmailController.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\WebApplication\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "..\\WebApplication\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:22:03.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Program.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Program.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Program.cs",
+              "RelativeToolTip": "..\\service\\service\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:48:37.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SubmissionService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\SubmissionService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\services\\SubmissionService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\SubmissionService.cs",
+              "RelativeToolTip": "..\\service\\service\\services\\SubmissionService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:20:23.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TranscriptionService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\TranscriptionService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\services\\TranscriptionService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\TranscriptionService.cs",
+              "RelativeToolTip": "..\\service\\service\\services\\TranscriptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:46:30.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "studentService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\studentService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\services\\studentService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\studentService.cs",
+              "RelativeToolTip": "..\\service\\service\\services\\studentService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:33:01.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\StaffService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\services\\StaffService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\StaffService.cs",
+              "RelativeToolTip": "..\\service\\service\\services\\StaffService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwDgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:43:14.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Program.cs",
-              "RelativeDocumentMoniker": "..\\service\\Program.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Program.cs",
-              "RelativeToolTip": "..\\service\\Program.cs",
+              "Title": "StaffRepository.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\StaffRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\StaffRepository.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\StaffRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\StaffRepository.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:36:38.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IStaffService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IStaffService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\interfaces\\IStaffService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IStaffService.cs",
+              "RelativeToolTip": "..\\service\\service\\interfaces\\IStaffService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:40:52.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyMapper.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\MyMapper.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\services\\MyMapper.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\MyMapper.cs",
+              "RelativeToolTip": "..\\service\\service\\services\\MyMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:42:11.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\services\\EmailService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\EmailService.cs",
+              "RelativeToolTip": "..\\service\\service\\services\\EmailService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:50:49.941Z",
+              "WhenOpened": "2026-03-12T09:22:06.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "LessonCategoryService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\LessonCategoryService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\services\\LessonCategoryService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\LessonCategoryService.cs",
+              "RelativeToolTip": "..\\service\\service\\services\\LessonCategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:34:06.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\LessonService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\services\\LessonService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\LessonService.cs",
+              "RelativeToolTip": "..\\service\\service\\services\\LessonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:53:01.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClassRoomService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\ClassRoomService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\services\\ClassRoomService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\ClassRoomService.cs",
+              "RelativeToolTip": "..\\service\\service\\services\\ClassRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:46:17.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\services\\AssignmentService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\AssignmentService.cs",
+              "RelativeToolTip": "..\\service\\service\\services\\AssignmentService.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:46:15.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AITranscriptionService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\AITranscriptionService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\services\\AITranscriptionService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\services\\AITranscriptionService.cs",
+              "RelativeToolTip": "..\\service\\service\\services\\AITranscriptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:46:13.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITranscriptionService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\ITranscriptionService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\interfaces\\ITranscriptionService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\ITranscriptionService.cs",
+              "RelativeToolTip": "..\\service\\service\\interfaces\\ITranscriptionService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:41:11.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IsubmissionService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IsubmissionService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\interfaces\\IsubmissionService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IsubmissionService.cs",
+              "RelativeToolTip": "..\\service\\service\\interfaces\\IsubmissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:41:06.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\interfaces\\IService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IService.cs",
+              "RelativeToolTip": "..\\service\\service\\interfaces\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:40:48.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IstudentService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IstudentService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\interfaces\\IstudentService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IstudentService.cs",
+              "RelativeToolTip": "..\\service\\service\\interfaces\\IstudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:34:37.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\ILogin.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\interfaces\\ILogin.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\ILogin.cs",
+              "RelativeToolTip": "..\\service\\service\\interfaces\\ILogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:40:43.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ILessonCategoryService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\ILessonCategoryService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\interfaces\\ILessonCategoryService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\ILessonCategoryService.cs",
+              "RelativeToolTip": "..\\service\\service\\interfaces\\ILessonCategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:35:01.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ILessonService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\ILessonService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\interfaces\\ILessonService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\ILessonService.cs",
+              "RelativeToolTip": "..\\service\\service\\interfaces\\ILessonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:56:00.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\interfaces\\IEmailService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IEmailService.cs",
+              "RelativeToolTip": "..\\service\\service\\interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:40:27.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IClassRoomService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IClassRoomService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\interfaces\\IClassRoomService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IClassRoomService.cs",
+              "RelativeToolTip": "..\\service\\service\\interfaces\\IClassRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:40:20.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAssignmentService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IAssignmentService.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\interfaces\\IAssignmentService.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\interfaces\\IAssignmentService.cs",
+              "RelativeToolTip": "..\\service\\service\\interfaces\\IAssignmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:40:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\UserDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\UserDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:40:01.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateGradeDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\UpdateGradeDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\UpdateGradeDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\UpdateGradeDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\UpdateGradeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:39:56.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TeacherSubmissionDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\TeacherSubmissionDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\TeacherSubmissionDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\TeacherSubmissionDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\TeacherSubmissionDto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:39:47.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TeacherAssignmentDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\TeacherAssignmentDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\TeacherAssignmentDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\TeacherAssignmentDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\TeacherAssignmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:39:42.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StudentSubmissionDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\StudentSubmissionDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\StudentSubmissionDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\StudentSubmissionDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\StudentSubmissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:39:37.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\StudentDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\StudentDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\StudentDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:39:32.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StudentAssignmentDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\StudentAssignmentDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\StudentAssignmentDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\StudentAssignmentDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\StudentAssignmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:39:26.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LessonDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\LessonDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\LessonDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\LessonDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\LessonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:38:58.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\CreateStudentDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateStudentDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\CreateStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:55:40.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateStaffDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateStaffDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\CreateStaffDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateStaffDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\CreateStaffDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:54:38.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateLessonRecordingDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateLessonRecordingDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\CreateLessonRecordingDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateLessonRecordingDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\CreateLessonRecordingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:55:23.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateLessonDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateLessonDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\CreateLessonDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateLessonDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\CreateLessonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:55:27.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateAssignmentDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateAssignmentDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\CreateAssignmentDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\CreateAssignmentDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\CreateAssignmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:55:29.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ClassDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\ClassDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\ClassDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\ClassDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\ClassDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:09:11.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ClassDetailDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\ClassDetailDto.cs",
+              "RelativeDocumentMoniker": "..\\service\\service\\Dto\\ClassDetailDto.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\service\\service\\Dto\\ClassDetailDto.cs",
+              "RelativeToolTip": "..\\service\\service\\Dto\\ClassDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:09:16.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Program.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Program.cs",
+              "RelativeToolTip": "..\\Repositories\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:37:49.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\AppDbContext.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Repositories\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:37:44.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SubmissionRepository.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\SubmissionRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\SubmissionRepository.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\SubmissionRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\SubmissionRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:37:20.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\StudentRepository.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:42:44.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LessonCategoryRepository.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\LessonCategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\LessonCategoryRepository.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\LessonCategoryRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\LessonCategoryRepository.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwv2EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:37:53.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LessonRepository.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\LessonRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\LessonRepository.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\LessonRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\LessonRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA4wFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:47:33.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DesignContextFactory.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\DesignContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\DesignContextFactory.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\DesignContextFactory.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\DesignContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:43:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ClassRoomRepository.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:42:59.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AssignmentRepository.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:34:00.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\User.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\User.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\User.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:45:12.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\Student.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\Student.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:44:27.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\Staff.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\Staff.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\Staff.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:44:20.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Submission.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\Submission.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\Submission.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\Submission.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\Submission.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:44:32.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "LessonCategory.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\LessonCategory.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\LessonCategory.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\LessonCategory.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\LessonCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:44:04.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\Assignment.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\Assignment.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\Assignment.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\Assignment.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:29:18.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\models\\ClassRoom.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\models\\ClassRoom.cs",
+              "RelativeToolTip": "..\\Repositories\\models\\ClassRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T10:08:55.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\InterFaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\InterFaces\\IRepository.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\Repositories\\InterFaces\\IRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\InterFaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:42:35.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "SchoolContextFactory.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\models\\SchoolContextFactory.cs",
+              "RelativeDocumentMoniker": "models\\SchoolContextFactory.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\models\\SchoolContextFactory.cs",
+              "RelativeToolTip": "models\\SchoolContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:29:58.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SubmissionService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\SubmissionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\services\\SubmissionService.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\SubmissionService.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\services\\SubmissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:10:55.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "IsubmissionService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\interfaces\\IsubmissionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\interfaces\\IsubmissionService.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\interfaces\\IsubmissionService.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\interfaces\\IsubmissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:13:57.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "SubmissionController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\SubmissionController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\WebApplication\\Controllers\\SubmissionController.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\SubmissionController.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\WebApplication\\Controllers\\SubmissionController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T16:44:06.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\WebApplication\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\WebApplication\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:58:55.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\WebApplication\\Controllers\\StaffController.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\WebApplication\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:03:49.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "ClassRoomController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\ClassRoomController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\WebApplication\\Controllers\\ClassRoomController.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\ClassRoomController.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\WebApplication\\Controllers\\ClassRoomController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwDwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:11:16.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\WebApplication\\Controllers\\AssignmentController.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\WebApplication\\Controllers\\AssignmentController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwEkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:39:13.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\services\\AssignmentService.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\AssignmentService.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\services\\AssignmentService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:40:40.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "StudentAssignmentDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\StudentAssignmentDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\StudentAssignmentDto.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\StudentAssignmentDto.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\StudentAssignmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:09:20.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\WebApplication\\Program.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\WebApplication\\Program.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\WebApplication\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:29:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "IAssignmentService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\interfaces\\IAssignmentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\interfaces\\IAssignmentService.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\interfaces\\IAssignmentService.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\interfaces\\IAssignmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:57:51.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "AssignmentRepository.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:10:01.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "MyMapper.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\MyMapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\services\\MyMapper.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\MyMapper.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\services\\MyMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:59:11.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\InterFaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\Repositories\\InterFaces\\IRepository.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\InterFaces\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\Repositories\\InterFaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:09:53.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\InterFaces\\IContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\Repositories\\InterFaces\\IContext.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\InterFaces\\IContext.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\Repositories\\InterFaces\\IContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:09:52.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\models\\Assignment.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\Repositories\\models\\Assignment.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\models\\Assignment.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\Repositories\\models\\Assignment.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:09:57.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "20260311141145_AddFilePathToAssignment.cs",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\Migrations\\20260311141145_AddFilePathToAssignment.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311141145_AddFilePathToAssignment.cs",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\Migrations\\20260311141145_AddFilePathToAssignment.cs",
+              "RelativeToolTip": "Migrations\\20260311141145_AddFilePathToAssignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:11:45.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "TeacherAssignmentDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\TeacherAssignmentDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\TeacherAssignmentDto.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\TeacherAssignmentDto.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\TeacherAssignmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:04:03.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "CreateAssignmentDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\CreateAssignmentDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\CreateAssignmentDto.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\CreateAssignmentDto.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\CreateAssignmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:03:52.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "ClassDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\ClassDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\ClassDto.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\ClassDto.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\ClassDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:10:46.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "ClassDetailDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\ClassDetailDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\ClassDetailDto.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\ClassDetailDto.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\ClassDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:10:44.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "CreateSubmissionDto.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\CreateSubmissionDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\CreateSubmissionDto.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\Dto\\CreateSubmissionDto.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\Dto\\CreateSubmissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:09:53.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "ClassRoomService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\ClassRoomService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\services\\ClassRoomService.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\ClassRoomService.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\services\\ClassRoomService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:10:50.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\StaffService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\services\\StaffService.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\StaffService.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\services\\StaffService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:06:57.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "studentService.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\studentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\service\\service\\services\\studentService.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\service\\service\\services\\studentService.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\service\\service\\services\\studentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:08:11.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "ClassRoomRepository.cs",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:10:02.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "Repositories.csproj",
+              "DocumentMoniker": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "..\\..\\ProjectAltshuler\\Repositories\\Repositories.csproj",
+              "ToolTip": "E:\\PROJECT\\ProjectAltshuler\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "..\\..\\ProjectAltshuler\\Repositories\\Repositories.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T16:09:45.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "SubmissionService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\SubmissionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\SubmissionService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\SubmissionService.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\SubmissionService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:26:38.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ClassRoomService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\ClassRoomService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\ClassRoomService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\ClassRoomService.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\ClassRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:26:19.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AuthService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:26:04.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "AssignmentService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AssignmentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AssignmentService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AssignmentService.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Implementations\\AssignmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:25:03.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ISubmissionService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\ISubmissionService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\ISubmissionService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\ISubmissionService.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\ISubmissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:22:38.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IAssignmentService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAssignmentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAssignmentService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAssignmentService.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAssignmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:22:29.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IClassRoomService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IClassRoomService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IClassRoomService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IClassRoomService.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IClassRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:22:14.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAuthService.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAuthService.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:21:51.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "StudentAssignmentDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentAssignmentDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentAssignmentDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentAssignmentDto.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentAssignmentDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:43:40.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "TeacherAssignmentDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\TeacherAssignmentDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\TeacherAssignmentDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\TeacherAssignmentDto.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\TeacherAssignmentDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:08:36.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "LessonDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\LessonDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\LessonDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\LessonDto.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\LessonDto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:08:00.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "SubmissionDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\SubmissionDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\SubmissionDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\SubmissionDto.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\SubmissionDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:07:50.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentDto.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:07:33.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "StuffDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StuffDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StuffDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StuffDto.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\StuffDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:07:20.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ClassRoomDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\ClassRoomDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\ClassRoomDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\ClassRoomDto.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\ClassRoomDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:05:31.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\UserDto.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\UserDto.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T14:05:06.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Program.cs",
+              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\service\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:50:49.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
               "Title": "ClassRoomRepository.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\ClassRoomRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\ClassRoomRepository.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\ClassRoomRepository.cs",
-              "RelativeToolTip": "..\\Repositories\\Repositories\\ClassRoomRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\ClassRoomRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:50:01.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 77,
               "Title": "codeFirst.csproj",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\codeFirst.csproj",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\codeFirst.csproj",
               "RelativeDocumentMoniker": "codeFirst.csproj",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\codeFirst.csproj",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\codeFirst.csproj",
               "RelativeToolTip": "codeFirst.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-25T13:50:01.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T13:50:01.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 97,
               "Title": "Repositories.csproj",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories.csproj",
-              "RelativeDocumentMoniker": "..\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories.csproj",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories.csproj",
-              "RelativeToolTip": "..\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-02-25T13:50:01.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 78,
               "Title": "codeFirst",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\codeFirst.csproj",
+              "DocumentMoniker": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\codeFirst.csproj",
               "RelativeDocumentMoniker": "codeFirst.csproj",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\codeFirst.csproj",
+              "ToolTip": "E:\\PROJECT\\__ProjectAltshuler\\codeFirst\\codeFirst.csproj",
               "RelativeToolTip": "codeFirst.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-02-25T13:50:01.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 98,
               "Title": "SubmissionRepository.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\SubmissionRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\SubmissionRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\SubmissionRepository.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\SubmissionRepository.cs",
-              "RelativeToolTip": "..\\Repositories\\Repositories\\SubmissionRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\SubmissionRepository.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAA5wB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:50:01.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 99,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StudentRepository.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StudentRepository.cs",
-              "RelativeToolTip": "..\\Repositories\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StudentRepository.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAIwCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:50:01.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 100,
               "Title": "StuffReposirory.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StuffReposirory.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\StuffReposirory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StuffReposirory.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StuffReposirory.cs",
-              "RelativeToolTip": "..\\Repositories\\Repositories\\StuffReposirory.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\StuffReposirory.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAiwCgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:50:01.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 101,
               "Title": "LessonRepository.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\LessonRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\LessonRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\LessonRepository.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\LessonRepository.cs",
-              "RelativeToolTip": "..\\Repositories\\Repositories\\LessonRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\LessonRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:50:01.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 102,
               "Title": "AssignmentRepository.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\AssignmentRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\AssignmentRepository.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\AssignmentRepository.cs",
-              "RelativeToolTip": "..\\Repositories\\Repositories\\AssignmentRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Repositories\\AssignmentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:50:01.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 103,
               "Title": "IRepository.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\InterFaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IRepository.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IRepository.cs",
-              "RelativeToolTip": "..\\Repositories\\InterFaces\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:50:01.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 104,
               "Title": "IContext.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IContext.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\InterFaces\\IContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IContext.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IContext.cs",
-              "RelativeToolTip": "..\\Repositories\\InterFaces\\IContext.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\InterFaces\\IContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:50:01.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 105,
               "Title": "Assignment.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Assignment.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\models\\Assignment.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Assignment.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Assignment.cs",
-              "RelativeToolTip": "..\\Repositories\\models\\Assignment.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Assignment.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAkwA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:50:01.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T13:50:01.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "School.cs",
-              "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\models\\School.cs",
-              "RelativeDocumentMoniker": "models\\School.cs",
-              "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\models\\School.cs",
-              "RelativeToolTip": "models\\School.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:50:01.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 106,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\AppDbContext.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\AppDbContext.cs",
-              "RelativeToolTip": "..\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:50:01.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 107,
               "Title": "Stuff.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Stuff.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\models\\Stuff.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Stuff.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Stuff.cs",
-              "RelativeToolTip": "..\\Repositories\\models\\Stuff.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Stuff.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAwA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:50:01.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T13:50:01.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 108,
               "Title": "ClassRoom.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\ClassRoom.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\models\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\ClassRoom.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\ClassRoom.cs",
-              "RelativeToolTip": "..\\Repositories\\models\\ClassRoom.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\ClassRoom.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:50:01.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T13:50:01.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 109,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\User.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\User.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\User.cs",
-              "RelativeToolTip": "..\\Repositories\\models\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\User.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:50:01.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T13:50:01.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 110,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Student.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Student.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Student.cs",
-              "RelativeToolTip": "..\\Repositories\\models\\Student.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Student.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:50:01.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T13:50:01.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 111,
               "Title": "Submission.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Submission.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\models\\Submission.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Submission.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Submission.cs",
-              "RelativeToolTip": "..\\Repositories\\models\\Submission.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Submission.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:50:01.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T13:50:01.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 112,
               "Title": "20260224134431_InitialFinalDesign.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\Migrations\\20260224134431_InitialFinalDesign.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260224134431_InitialFinalDesign.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\Migrations\\20260224134431_InitialFinalDesign.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\Migrations\\20260224134431_InitialFinalDesign.cs",
-              "RelativeToolTip": "Migrations\\20260224134431_InitialFinalDesign.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\codeFirst\\Migrations\\20260224134431_InitialFinalDesign.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:50:01.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T13:50:01.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 79,
               "Title": "20260224132222_InitialCreate.cs",
               "DocumentMoniker": "D:\\Users\\User\\Desktop\\\u05E9\u05E0\u05D4 \u05D1\u0027\\codeFirst\\Migrations\\20260224132222_InitialCreate.cs",
               "ToolTip": "D:\\Users\\User\\Desktop\\\u05E9\u05E0\u05D4 \u05D1\u0027\\codeFirst\\Migrations\\20260224132222_InitialCreate.cs",
@@ -616,25 +2181,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 113,
               "Title": "Lesson.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Lesson.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\models\\Lesson.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Lesson.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Lesson.cs",
-              "RelativeToolTip": "..\\Repositories\\models\\Lesson.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\models\\Lesson.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T13:50:01.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T13:50:01.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 114,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Repositories\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Program.cs",
               "ToolTip": "E:\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Program.cs",
-              "RelativeToolTip": "..\\Repositories\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E1\u05D9\u05E8\u05D5\u05E7\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Repositories\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T13:50:01.74Z"
